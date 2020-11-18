@@ -10,7 +10,7 @@
   <project name="Toomoch/android_device_lge_bullhead" path="device/lge/bullhead" remote="github" revision="lineage-17.1" />
 
   <!-- Kernel -->
-  <project name="Toomoch/android_kernel_lge_bullhead" path="kernel/lge/bullhead" remote="github" revision="lineage-17.1" />
+  <project name="mortezadadgar/bullhead" path="kernel/lge/bullhead" remote="github" revision="master" />
 
   <!-- Vendor -->
   <project name="Toomoch/android_vendor_lge_bullhead" path="vendor/lge/bullhead" remote="github" revision="lineage-17.1" />

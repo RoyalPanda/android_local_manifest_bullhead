@@ -11,7 +11,7 @@ Building 17.1 for Nexus 5X
   repo init --depth=1 -u https://github.com/LineageOS/android.git -b lineage-17.1
   
 3. Clone this repo:
-  git clone https://github.com/Toomoch/android_local_manifests_bullhead .repo/local_manifests -b lineage-17.1
+  git clone https://github.com/RoyalPanda/android_local_manifests_bullhead .repo/local_manifests -b lineage-17.1
 
 4. Sync LineageOS trees:
   repo sync --no-tags --no-clone-bundle --force-sync -c -j8
